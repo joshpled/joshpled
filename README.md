@@ -7,5 +7,4 @@
 - 💬 Ask me about: The time I went to Egypt
 - 📫 How to reach me: joshuapleduc@gmail.com
 - 😄 Pronouns: He/Him/
-- ⚡ Fun fact: I worked in the hospitality restaurant industry for 10 years
-
+- ⚡ Fun fact: My background is filmmaker and waiter, but absolutely doing nothing in either of those industries. I'm a Software Engineer now. That's how I like it. 
