@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: The newComponents branch of firstchoiceleadership project -> [NewComponents](https://github.com/joshpled/firstchoice-leadership/tree/newcomponents)
+- 🔭 I’m currently working on: Compman_Frontend
 - 🌱 I’m currently learning: React Native
 - 👯 I’m looking to collaborate on: PIBA Foundation Console
 - 🤔 I’m looking for help with: Advanced React Concepts
